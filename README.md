@@ -16,7 +16,7 @@ pip install geno-sugar
 ## Documentation
 
 The public interface and a quick start in python are available at
-[http://geno-sugar.readthedocs.io/](http://struct-lmm.readthedocs.io/).
+[http://geno-sugar.readthedocs.io/](http://geno-sugar.readthedocs.io/).
 
 ## Problems
 
